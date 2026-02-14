@@ -1,0 +1,26 @@
+option.Composite_CRTScale = CRT Resolution
+value.Composite_CRTScale.4 = Low
+value.Composite_CRTScale.2 = High
+
+option.Composite_BloomQuality = Bloom Quality
+value.Composite_BloomQuality.0 = Low
+value.Composite_BloomQuality.1 = Medium
+value.Composite_BloomQuality.2 = High
+option.Composite_BloomQuality.comment = How many samples to use for bloom
+
+option.Composite_BlurQuality = Blur Quality
+value.Composite_BlurQuality.0 = Low
+value.Composite_BlurQuality.1 = Medium
+value.Composite_BlurQuality.2 = High
+option.Composite_BlurQuality.comment = How many samples to use on the CRT rim
+
+option.Atmosphere_Sun_Tempurature = Sun Tempurature
+option.Atmosphere_Sun_Tempurature.comment = Controls color of the sun
+option.Atmosphere_Sun_Brightness = Sun Brightness
+
+option.Atmosphere_Moon_Tempurature = Moon Tempurature
+option.Atmosphere_Moon_Tempurature.comment = Control color of the moon
+option.Atmosphere_Moon_Brightness = Moon Brightness
+
+option.Camera_Gamma = Gamma
+option.Camera_BloomStrength = Bloom Strength
